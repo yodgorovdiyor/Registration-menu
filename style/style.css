@@ -73,7 +73,7 @@ img {
 }
 
 .all-inputs {
-	width: 100%;	
+	width: 97%;	
 	height: 500px;
 }
 
@@ -92,7 +92,7 @@ img {
 }
 
 .all-inputs [type="submit"] {
-	width: 12%;
+	width: 15%;
 	height: 50px;
 	padding: 0;
 	font-size: 20px;
